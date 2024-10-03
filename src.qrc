@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>C:/Users/30789/Desktop/音量.svg</file>
+        <file>vloume_ico.svg</file>
+        <file>volume_ico.png</file>
+    </qresource>
+</RCC>
